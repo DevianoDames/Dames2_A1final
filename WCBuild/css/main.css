@@ -125,12 +125,12 @@ footer {
 
   background-size: 60vh; /* 55% of the viewport height */
   background-position: 2px bottom;
-  align-self: auto;
+  
 
   display: none;
 }
 
-#lightbox2 { background-image: url('../images/Flag_of_Canada.svg.webp'); }
+#lightbox2 { background-image: url(..//images/france_flag.webp) }
 
 .lightbox_close {
   position: relative;
