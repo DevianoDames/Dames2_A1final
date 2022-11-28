@@ -113,7 +113,7 @@ footer {
 
 .lightbox { 
   width: 100vw; /* vw = viewport width => screen width */
-  height: 100vh; /* vh = viewport height => screen height */
+  height: 50vh; /* vh = viewport height => screen height */
 
   position: absolute;
   top: 0;
