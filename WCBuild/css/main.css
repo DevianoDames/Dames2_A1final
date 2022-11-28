@@ -113,7 +113,7 @@ footer {
 
 .lightbox { 
   width: 100vw; /* vw = viewport width => screen width */
-  height: 50vh; /* vh = viewport height => screen height */
+  height: 100vh; /* vh = viewport height => screen height */
 
   position: absolute;
   top: 0;
@@ -123,8 +123,9 @@ footer {
   background-image: url('../images/usa_flag.jpeg');
   background-repeat: no-repeat;
 
-  background-size: 55vh; /* 55% of the viewport height */
-  background-position: 40px bottom;
+  background-size: 60vh; /* 55% of the viewport height */
+  background-position: 2px bottom;
+  align-self: auto;
 
   display: none;
 }
